@@ -6,6 +6,8 @@ body {
     font-family: 'Khula', sans-serif;
     background: linear-gradient(138deg, rgba(0,11,69,1) 0%, rgba(54,0,96,1) 50%, rgba(54,0,96,1) 100%);
     height: 100%; 
+    cursor: url('/images/cursor.png'), auto; /* Usa una imagen personalizada como cursor */
+
 }
 
 /* Header */
